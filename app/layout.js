@@ -4,9 +4,6 @@ import Footer from "@/components/layout/Footer.jsx";
 import QuotePopup from "@/components/quote/QuotePopup.jsx";
 import SuccessPopup from "@/components/layout/SuccessPopup.jsx";
 import { JsonContextProvider } from "@/context/jsonContext";
-import { headers } from "next/headers";
-// import { usePathname } from 'next/navigation'
-
 
 export const metadata = {
   title: "Car Wash & Detailing Services",
